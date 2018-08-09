@@ -4,10 +4,14 @@
 # 2018 (C) GraphLab Computação Ltda.
 #
 
-include Experimental.mk
+BASE_DIR = $(shell pwd)
+TARGET_ALL =
+TARGET_CLEAN =
 
-all: $(patsubst %, .%.fmt, $(EXPERIMENTAL))
-	@echo "Done."
+include *.mk
+
+all: $(TARGET_ALL)
+	@echo "all videos downloaded!"
 	@echo 
 
 .%.fmt: $(patsubst .%.fmt, %.fmt, $@)
@@ -19,10 +23,12 @@ all: $(patsubst %, .%.fmt, $(EXPERIMENTAL))
                    https://www.youtube.com/watch?v=$*
 	@mv $*.part $@
 	@echo "Finished."
+	@echo
 
-clean:
+clean: $(TARGET_CLEAN)
 	@echo "clean"
 	@rm -f .*.fmt *.part *.m4a *.mp4 *.webm *.mkv *.out
 	@echo 
 
-#eof
+.PHONY: all clean
+.EXPORT_ALL_VARIABLES:
