@@ -16,12 +16,12 @@ all: $(TARGET_ALL)
 
 .%.fmt: $(patsubst .%.fmt, %.fmt, $@)
 	@echo "Getting formats available for $* ..."
-	youtube-dl --mark-watched --get-filename https://www.youtube.com/watch?v=$* | tee $*.part
-	youtube-dl --mark-watched --list-formats https://www.youtube.com/watch?v=$* | tee --append $*.part
+	youtube-dl --mark-watched --get-filename https://www.youtube.com/watch?v=$* | tee !$*.part
+	youtube-dl --mark-watched --list-formats https://www.youtube.com/watch?v=$* | tee --append !$*.part
 	@echo "Downloading video $* ..."
 	youtube-dl --mark-watched --format '137+140' --merge-output-format mkv \
                    https://www.youtube.com/watch?v=$*
-	@mv $*.part $@
+	@mv !$*.part $@
 	@echo "Finished."
 	@echo
 
