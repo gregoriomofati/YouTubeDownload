@@ -20,7 +20,7 @@ all: $(TARGET_ALL)
 	youtube-dl --mark-watched --get-filename https://www.youtube.com/watch?v=$(*F) | tee $(*D)/!$(*F).part
 	youtube-dl --mark-watched --list-formats https://www.youtube.com/watch?v=$(*F) | tee $(*D)/!$(*F).part --append
 	@echo "Downloading video $(*F) ..."
-	youtube-dl --mark-watched --format '137+140' --merge-output-format mkv --restrict-filenames \
+	youtube-dl --mark-watched --format '(137/136)+(140)' --merge-output-format mkv --restrict-filenames \
 		--output '$(*D)/%(title)s [%(id)s].%(ext)s' \
 		https://www.youtube.com/watch?v=$(*F)
 	@mv $(*D)/!$(*F).part $@
