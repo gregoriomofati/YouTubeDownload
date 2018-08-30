@@ -1,0 +1,44 @@
+#
+$(info Template)
+#
+# 2018 (C) GraphLab Computação Ltda.
+#
+
+# Step 1: Rename 'Template' to your 'Project Name'   (treating spaces properly).
+# Step 2: Rename 'TEMPLATE' to your 'PROJECT_NAME'   (no spaces here).
+# Step 3: Add videos to the list of 'TEMPLATE_FILES' (variable will be renamed above).
+# Step 4: Remove these steps lines, save your file, exit the editor; 
+#         rename your file to 'ProjectName.mk' and type 'make' at the prompt.
+
+#
+# Files:
+#
+
+#
+# 1 video
+# "Example"
+#
+EXAMPLE = xkEykZNul7A
+
+
+#
+# Rules:
+#
+
+TEMPLATE       = Template
+TEMPLATE_DIR   = $(BASE_DIR)/$(TEMPLATE)
+TEMPLATE_FILES = $(EXAMPLE)
+
+
+$(TEMPLATE)_all: $(TEMPLATE)_dir $(patsubst %, $(TEMPLATE_DIR)/.%.fmt, $(TEMPLATE_FILES))
+
+$(TEMPLATE)_dir:
+	@mkdir --parents --verbose $(TEMPLATE_DIR)/
+
+$(TEMPLATE)_clean:
+	@rm --recursive --force --verbose $(TEMPLATE_DIR)/
+
+
+TARGET_ALL   += $(TEMPLATE)_all
+TARGET_CLEAN += $(TEMPLATE)_clean
+DOT_PHONY    += $(TEMPLATE)_all $(TEMPLATE)_dir $(TEMPLATE)_clean
