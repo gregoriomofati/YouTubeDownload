@@ -53,7 +53,8 @@ NOSSO_DIA =         FY2-Zghwgoo -RsLzUsXYHM swFgd3rs7Gc 31iBxkTTAfc \
 # playlist: PLt7PgJ6tMUQQCSRgI-_gb2nCGcDPJioHR
 #
 NOSSO_MUNDO =       Dr4gittIyaU YTAnjjaeVzU FH4EDYF1frI N837uUhxudo \
-                    M71yKfSkyJA 6kAuKDpIaww 1TuiHeNltbo K9R5OCocIp4
+                    M71yKfSkyJA 6kAuKDpIaww 1TuiHeNltbo K9R5OCocIp4 \
+                    QoB7gWNchtc
 
 #
 # 11 vídeos
