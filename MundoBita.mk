@@ -54,7 +54,7 @@ NOSSO_DIA =         FY2-Zghwgoo -RsLzUsXYHM swFgd3rs7Gc 31iBxkTTAfc \
 #
 NOSSO_MUNDO =       Dr4gittIyaU YTAnjjaeVzU FH4EDYF1frI N837uUhxudo \
                     M71yKfSkyJA 6kAuKDpIaww 1TuiHeNltbo K9R5OCocIp4 \
-                    QoB7gWNchtc EW1Is3BVp5U
+                    QoB7gWNchtc EW1Is3BVp5U OEUXZ2uz1a4 s48phnrkZ5w
 
 #
 # 11 vídeos
@@ -88,7 +88,8 @@ FERIAS =            AFN52hq7d7w uUgv2bCnbv4 tyHj0OxckSc 5TVsXxsFJps \
 # playlist: PLt7PgJ6tMUQQqd9Oa2GUP98YSL807Aipt
 #
 PROMOCIONAIS =      zUsQbjg9QuM IoeuWEXaRMM Ci2y5UVXh_g WY07hyc_sqk \
-                    Syt77jrpb08 YE3jGUyEQFc DrxgnYwXAKA xqgqwDc64WQ
+                    Syt77jrpb08 YE3jGUyEQFc DrxgnYwXAKA xqgqwDc64WQ \
+                    vOl9LjYv7N8 3W99LPSk7pY 
 
 #
 # 30 vídeos
