@@ -105,11 +105,18 @@ VEVO =              4hmTy4mTCtc eLtzvypcurE AFN52hq7d7w swFgd3rs7Gc \
                     _HsZ2vPksvE BFCePyavZbg zL5nyXPjJjU cnzgHAIRqmc
 
 #
+# 2 áudios
+# "Dorme Dorme"
+#
+DORME_DORME =       tk3cFFRMLZI qBCi8ybQ6ic
+
+#
 # Rules:
 #
 
 MUNDO_BITA        = MundoBita
 MUNDO_BITA_DIR    = $(BASE_DIR)/$(MUNDO_BITA)
+MUNDO_BITA_AUDIOS = $(DORME_DORME)
 MUNDO_BITA_VIDEOS = $(NATUREZA) $(BRINCADEIRAS) $(CORPO_HUMANO) \
                     $(NOSSO_DIA) $(NOSSO_MUNDO) $(ANIMAIS) $(ESPECIAIS) \
                     $(FERIAS) $(VEVO) $(PROMOCIONAIS)
