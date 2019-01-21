@@ -74,6 +74,13 @@ ESPECIAIS =         Vw2nI5tFjQs Tvq1tHHSi5I siVfbM-jicg eulFsmcNHos \
                     cGs1QA2bLdw _9EtOUoELtk ueTMLzcYcu0
 
 #
+# 1 vídeo
+# "Rádio Bita"
+# playlist: N.A.
+#
+RADIO_BITA =        iDhHIhgclR4
+
+#
 # 11 vídeos
 # "Férias com Mundo Bita"
 # playlist: PLt7PgJ6tMUQQLqec2rqFZU0fxVstuRpgr
@@ -89,7 +96,7 @@ FERIAS =            AFN52hq7d7w uUgv2bCnbv4 tyHj0OxckSc 5TVsXxsFJps \
 #
 PROMOCIONAIS =      zUsQbjg9QuM IoeuWEXaRMM Ci2y5UVXh_g WY07hyc_sqk \
                     Syt77jrpb08 YE3jGUyEQFc DrxgnYwXAKA xqgqwDc64WQ \
-                    vOl9LjYv7N8 3W99LPSk7pY 
+                    vOl9LjYv7N8 3W99LPSk7pY 8nD9tl9Y0e4
 
 #
 # 30 vídeos
