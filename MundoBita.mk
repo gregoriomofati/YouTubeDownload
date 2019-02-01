@@ -81,6 +81,13 @@ ESPECIAIS =         Vw2nI5tFjQs Tvq1tHHSi5I siVfbM-jicg eulFsmcNHos \
 RADIO_BITA =        iDhHIhgclR4
 
 #
+# 1 vídeo
+# "Bita e o Circo"
+# playlist: N.A.
+#
+CIRCO =             qmUQr3zrqXM
+
+#
 # 11 vídeos
 # "Férias com Mundo Bita"
 # playlist: PLt7PgJ6tMUQQLqec2rqFZU0fxVstuRpgr
@@ -96,7 +103,7 @@ FERIAS =            AFN52hq7d7w uUgv2bCnbv4 tyHj0OxckSc 5TVsXxsFJps \
 #
 PROMOCIONAIS =      zUsQbjg9QuM IoeuWEXaRMM Ci2y5UVXh_g WY07hyc_sqk \
                     Syt77jrpb08 YE3jGUyEQFc DrxgnYwXAKA xqgqwDc64WQ \
-                    vOl9LjYv7N8 3W99LPSk7pY 8nD9tl9Y0e4
+                    vOl9LjYv7N8 3W99LPSk7pY 8nD9tl9Y0e4 PFgb_2Up3AQ
 
 #
 # 30 vídeos
@@ -125,7 +132,7 @@ MUNDO_BITA        = MundoBita
 MUNDO_BITA_DIR    = $(BASE_DIR)/$(MUNDO_BITA)
 MUNDO_BITA_AUDIOS = $(DORME_DORME)
 MUNDO_BITA_VIDEOS = $(NATUREZA) $(BRINCADEIRAS) $(CORPO_HUMANO) \
-                    $(NOSSO_DIA) $(NOSSO_MUNDO) $(ANIMAIS) $(ESPECIAIS) $(RADIO_BITA) \
+                    $(NOSSO_DIA) $(NOSSO_MUNDO) $(ANIMAIS) $(ESPECIAIS) $(RADIO_BITA) $(CIRCO) \
                     $(FERIAS) $(VEVO) $(PROMOCIONAIS)
 
 
