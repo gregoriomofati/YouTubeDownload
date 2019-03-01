@@ -78,7 +78,7 @@ ESPECIAIS =         Vw2nI5tFjQs Tvq1tHHSi5I siVfbM-jicg eulFsmcNHos \
 # "Rádio Bita"
 # playlist: N.A.
 #
-RADIO_BITA =        iDhHIhgclR4
+RADIO_BITA =        iDhHIhgclR4 3-SZp98VV2I
 
 #
 # 1 vídeo
