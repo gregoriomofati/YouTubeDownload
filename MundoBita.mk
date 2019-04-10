@@ -85,7 +85,7 @@ RADIO_BITA =        iDhHIhgclR4 3-SZp98VV2I
 # "Bita e o Circo"
 # playlist: N.A.
 #
-CIRCO =             qmUQr3zrqXM
+CIRCO =             qmUQr3zrqXM QaUxZtCLoa8
 
 #
 # 11 vídeos
