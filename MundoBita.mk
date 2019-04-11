@@ -104,7 +104,6 @@ FERIAS =            AFN52hq7d7w uUgv2bCnbv4 tyHj0OxckSc 5TVsXxsFJps \
 PROMOCIONAIS =      zUsQbjg9QuM IoeuWEXaRMM Ci2y5UVXh_g WY07hyc_sqk \
                     Syt77jrpb08 YE3jGUyEQFc DrxgnYwXAKA xqgqwDc64WQ \
                     vOl9LjYv7N8 3W99LPSk7pY 8nD9tl9Y0e4 PFgb_2Up3AQ \
-                    fv8IFbjRK5lU
 
 #
 # 30 vídeos
@@ -124,6 +123,12 @@ VEVO =              4hmTy4mTCtc eLtzvypcurE AFN52hq7d7w swFgd3rs7Gc \
 # "Dorme Dorme"
 #
 DORME_DORME =       tk3cFFRMLZI qBCi8ybQ6ic
+
+#
+# WARNING: Unable to extract video title
+# ERROR: This video is unavailable.
+#
+UNAVAILABLE =       fv8IFbjRK5lU
 
 #
 # Rules:
