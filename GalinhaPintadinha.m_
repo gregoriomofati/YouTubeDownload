@@ -1,0 +1,44 @@
+#
+$(info GalinhaPintadinha)
+#
+# 2018 (C) GraphLab Computação Ltda.
+#
+
+# Step 1: Rename 'GalinhaPintadinha' to your 'Project Name'   (treating spaces properly).
+# Step 2: Rename 'GALINHA_PINTADINHA' to your 'PROJECT_NAME'   (no spaces here).
+# Step 3: Add videos to the list of 'GALINHA_PINTADINHA_FILES' (variable will be renamed above).
+# Step 4: Remove these steps lines, save your file, exit the editor; 
+#         rename your file to 'ProjectName.mk' and type 'make' at the prompt.
+
+#
+# Files:
+#
+
+#
+# 1 video
+# "Example"
+#
+EXAMPLE = xkEykZNul7A
+
+
+#
+# Rules:
+#
+
+GALINHA_PINTADINHA       = GalinhaPintadinha
+GALINHA_PINTADINHA_DIR   = $(BASE_DIR)/$(GALINHA_PINTADINHA)
+GALINHA_PINTADINHA_FILES = $(EXAMPLE)
+
+
+$(GALINHA_PINTADINHA)_all: $(GALINHA_PINTADINHA)_dir $(patsubst %, $(GALINHA_PINTADINHA_DIR)/.%.fmt, $(GALINHA_PINTADINHA_FILES))
+
+$(GALINHA_PINTADINHA)_dir:
+	@mkdir --parents --verbose $(GALINHA_PINTADINHA_DIR)/
+
+$(GALINHA_PINTADINHA)_clean:
+	@rm --recursive --force --verbose $(GALINHA_PINTADINHA_DIR)/
+
+
+TARGET_ALL   += $(GALINHA_PINTADINHA)_all
+TARGET_CLEAN += $(GALINHA_PINTADINHA)_clean
+DOT_PHONY    += $(GALINHA_PINTADINHA)_all $(GALINHA_PINTADINHA)_dir $(GALINHA_PINTADINHA)_clean
