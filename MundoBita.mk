@@ -82,11 +82,12 @@ RADIO_BITA =        iDhHIhgclR4 3-SZp98VV2I Jhey9n-9fBA 72DQARLcNaY \
 		    _qUnXNCkMdM 
 
 #
-# 4 vídeo
+# 5 vídeo
 # "Bita e o Circo"
 # playlist: N.A.
 #
-CIRCO =             qmUQr3zrqXM QaUxZtCLoa8 oEK8bydGT5k PVPqslP8Y9g
+CIRCO =             qmUQr3zrqXM QaUxZtCLoa8 oEK8bydGT5k PVPqslP8Y9g \
+		    wjbYJvmbM68
 
 #
 # 11 vídeos
