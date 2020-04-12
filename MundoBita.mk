@@ -57,11 +57,12 @@ NOSSO_MUNDO =       Dr4gittIyaU YTAnjjaeVzU FH4EDYF1frI N837uUhxudo \
                     QoB7gWNchtc EW1Is3BVp5U OEUXZ2uz1a4 s48phnrkZ5w
 
 #
-# 1 vídeo
+# 2 vídeos
 # "Bita e o Nosso Mundo 2"
 # playlist: N.A.
 #
-NOSSO_MUNDO +=      8Z3FDAt9zDw
+NOSSO_MUNDO +=      8Z3FDAt9zDw jmQoDtE3o1Y
+
 #
 # 11 vídeos
 # "Bita e os Animais"
