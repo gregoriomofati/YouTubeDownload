@@ -74,12 +74,12 @@ ESPECIAIS =         Vw2nI5tFjQs Tvq1tHHSi5I siVfbM-jicg eulFsmcNHos \
                     cGs1QA2bLdw _9EtOUoELtk ueTMLzcYcu0
 
 #
-# 5 vídeo
+# 6 vídeo
 # "Rádio Bita"
 # playlist: N.A.
 #
 RADIO_BITA =        iDhHIhgclR4 3-SZp98VV2I Jhey9n-9fBA 72DQARLcNaY \
-		    _qUnXNCkMdM 
+		    _qUnXNCkMdM KyS3VZs5ERc
 
 #
 # 5 vídeo
