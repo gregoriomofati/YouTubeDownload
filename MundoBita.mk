@@ -81,11 +81,11 @@ ESPECIAIS =         Vw2nI5tFjQs Tvq1tHHSi5I siVfbM-jicg eulFsmcNHos \
 RADIO_BITA =        iDhHIhgclR4 3-SZp98VV2I Jhey9n-9fBA 72DQARLcNaY
 
 #
-# 3 vídeo
+# 4 vídeo
 # "Bita e o Circo"
 # playlist: N.A.
 #
-CIRCO =             qmUQr3zrqXM QaUxZtCLoa8 oEK8bydGT5k
+CIRCO =             qmUQr3zrqXM QaUxZtCLoa8 oEK8bydGT5k PVPqslP8Y9g
 
 #
 # 11 vídeos
