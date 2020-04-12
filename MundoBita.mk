@@ -48,7 +48,7 @@ NOSSO_DIA =         FY2-Zghwgoo -RsLzUsXYHM swFgd3rs7Gc 31iBxkTTAfc \
                     mp57Li8mFpI nz0F4nP4ekw
 
 #
-# 7 vídeos
+# 8 vídeos
 # "Bita e o Nosso Mundo"
 # playlist: PLt7PgJ6tMUQQCSRgI-_gb2nCGcDPJioHR
 #
@@ -56,6 +56,12 @@ NOSSO_MUNDO =       Dr4gittIyaU YTAnjjaeVzU FH4EDYF1frI N837uUhxudo \
                     M71yKfSkyJA 6kAuKDpIaww 1TuiHeNltbo K9R5OCocIp4 \
                     QoB7gWNchtc EW1Is3BVp5U OEUXZ2uz1a4 s48phnrkZ5w
 
+#
+# 1 vídeo
+# "Bita e o Nosso Mundo 2"
+# playlist: N.A.
+#
+NOSSO_MUNDO +=      8Z3FDAt9zDw
 #
 # 11 vídeos
 # "Bita e os Animais"
