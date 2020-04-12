@@ -99,14 +99,14 @@ FERIAS =            AFN52hq7d7w uUgv2bCnbv4 tyHj0OxckSc 5TVsXxsFJps \
                     DysjscnMU5g zL5nyXPjJjU cnzgHAIRqmc
 
 #
-# 15 vídeos
+# 16 vídeos
 # "Promocionais & Apps"
 # playlist: PLt7PgJ6tMUQQqd9Oa2GUP98YSL807Aipt
 #
 PROMOCIONAIS =      zUsQbjg9QuM IoeuWEXaRMM Ci2y5UVXh_g WY07hyc_sqk \
                     Syt77jrpb08 YE3jGUyEQFc DrxgnYwXAKA xqgqwDc64WQ \
                     vOl9LjYv7N8 3W99LPSk7pY 8nD9tl9Y0e4 PFgb_2Up3AQ \
-		    EL27JtE0zRA n2fleliY3Gg KZZpB0Yv7Qc
+		    EL27JtE0zRA n2fleliY3Gg KZZpB0Yv7Qc jPmtP_dxcGw
 
 #
 # 30 vídeos
