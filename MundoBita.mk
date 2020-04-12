@@ -81,11 +81,11 @@ ESPECIAIS =         Vw2nI5tFjQs Tvq1tHHSi5I siVfbM-jicg eulFsmcNHos \
 RADIO_BITA =        iDhHIhgclR4 3-SZp98VV2I Jhey9n-9fBA
 
 #
-# 1 vídeo
+# 3 vídeo
 # "Bita e o Circo"
 # playlist: N.A.
 #
-CIRCO =             qmUQr3zrqXM QaUxZtCLoa8
+CIRCO =             qmUQr3zrqXM QaUxZtCLoa8 oEK8bydGT5k
 
 #
 # 11 vídeos
@@ -97,13 +97,14 @@ FERIAS =            AFN52hq7d7w uUgv2bCnbv4 tyHj0OxckSc 5TVsXxsFJps \
                     DysjscnMU5g zL5nyXPjJjU cnzgHAIRqmc
 
 #
-# 18 vídeos
+# 13 vídeos
 # "Promocionais & Apps"
 # playlist: PLt7PgJ6tMUQQqd9Oa2GUP98YSL807Aipt
 #
 PROMOCIONAIS =      zUsQbjg9QuM IoeuWEXaRMM Ci2y5UVXh_g WY07hyc_sqk \
                     Syt77jrpb08 YE3jGUyEQFc DrxgnYwXAKA xqgqwDc64WQ \
                     vOl9LjYv7N8 3W99LPSk7pY 8nD9tl9Y0e4 PFgb_2Up3AQ \
+		    EL27JtE0zRA
 
 #
 # 30 vídeos
