@@ -74,11 +74,11 @@ ESPECIAIS =         Vw2nI5tFjQs Tvq1tHHSi5I siVfbM-jicg eulFsmcNHos \
                     cGs1QA2bLdw _9EtOUoELtk ueTMLzcYcu0
 
 #
-# 1 vídeo
+# 4 vídeo
 # "Rádio Bita"
 # playlist: N.A.
 #
-RADIO_BITA =        iDhHIhgclR4 3-SZp98VV2I Jhey9n-9fBA
+RADIO_BITA =        iDhHIhgclR4 3-SZp98VV2I Jhey9n-9fBA 72DQARLcNaY
 
 #
 # 3 vídeo
