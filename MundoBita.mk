@@ -48,7 +48,7 @@ NOSSO_DIA =         FY2-Zghwgoo -RsLzUsXYHM swFgd3rs7Gc 31iBxkTTAfc \
                     mp57Li8mFpI nz0F4nP4ekw
 
 #
-# 8 vídeos
+# 12 vídeos
 # "Bita e o Nosso Mundo"
 # playlist: PLt7PgJ6tMUQQCSRgI-_gb2nCGcDPJioHR
 #
@@ -117,7 +117,7 @@ PROMOCIONAIS =      zUsQbjg9QuM IoeuWEXaRMM Ci2y5UVXh_g WY07hyc_sqk \
 		    EL27JtE0zRA n2fleliY3Gg KZZpB0Yv7Qc jPmtP_dxcGw
 
 #
-# 30 vídeos
+# 28 vídeos
 # "MundoBitaVEVO"
 # playlist: PLt7PgJ6tMUQR_UkKd-D5O6XAcHluXTHZH
 #
